@@ -1,0 +1,2 @@
+# MakaChurch-all
+# technicalappmobilereactnative
