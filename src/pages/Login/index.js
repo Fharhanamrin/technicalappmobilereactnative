@@ -89,9 +89,7 @@ export default function Login({navigation}) {
     }
   };
 
-  const butuhbantuan = async () => {
-    await Linking.openURL('https://wa.me/6281385589009');
-  };
+ 
 
   return (
     <LinearGradient
